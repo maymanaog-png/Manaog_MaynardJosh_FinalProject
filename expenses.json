@@ -1,0 +1,23 @@
+{
+  "people": {
+    "Josh": {
+      "name": "Josh",
+      "balance": 0.0
+    },
+    "Maynard": {
+      "name": "Maynard",
+      "balance": 0.0
+    }
+  },
+  "expenses": [
+    {
+      "desc": "Pizza",
+      "amount": 25.0,
+      "paid_by": "Josh",
+      "split": [
+        "Josh",
+        "Maynard"
+      ]
+    }
+  ]
+}
